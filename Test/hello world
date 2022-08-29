@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <meta charset="utf-8">
+        <title>Bonjour le monde</title>
+     </head>
+     <body>
+        <header>
+        <h1 type="text" id="nom" name="nom" value="Nathan">
+            <strong><i>Nathan</i></strong>
+        </h1>
+        <h2> Vous presente sa premiere page oueb
+        </h2>
+       </header>
+        <article> <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum leo vitae enim viverra, ac laoreet orci consequat. Morbi vulputate dui eu tincidunt ullamcorper. Vivamus sed pulvinar diam, ullamcorper finibus sem. Pellentesque tempor elit ac massa luctus, eu vulputate augue dictum. Etiam vestibulum non ante ac efficitur. Cras porta ultricies nibh in dignissim. Sed tristique feugiat nisi nec maximus. Donec nec est non tortor blandit imperdiet. Ut fermentum rutrum libero ut posuere. Donec lobortis congue finibus. Praesent interdum ante in ex egestas rhoncus. Vestibulum blandit nisl et ligula porttitor, ac maximus risus posuere. Quisque faucibus, lacus nec placerat molestie, tortor dui pharetra elit, eu finibus metus eros vel lectus. Pellentesque suscipit aliquam tempus.
+        </p> </article>
+     </body>
+    </html>

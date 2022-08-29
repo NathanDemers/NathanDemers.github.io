@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <meta charset="utf-8">
+        <title>Nathan Demers</title>
+     </head>
+     <body>
+        <header> 
+            <h1>Nathan Demers</h1> 
+            <q>Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur</q>
+            <p>-Nelson Mandela</p>
+            <img src=shitv2.jpg height="200" width="200"> </img>
+            <hr></hr>
+            </header>
+        <nav> <ul>
+         <li> <a href="#Mes Loisirs" > Mes loisirs </a> </li>
+         <li> <a href= "#Mes Exercices"> Mes Exercices </a></li>
+         <li> <a href= "#Mes voisins de tables"> Mes Voisins de tables</a></li>
+         </ul>
+         </nav>
+         <h1>Presentation</h1>
+         <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec pharetra dui. Fusce dignissim, neque sit amet sodales iaculis, ex velit tempus urna, in maximus nisl tellus non metus. Sed iaculis, metus sit amet lobortis tincidunt, odio augue luctus enim, in fermentum nisi mauris in magna. Nunc at magna dignissim, mollis nisl vel, egestas neque. Sed tempor gravida ullamcorper. Pellentesque feugiat scelerisque libero vel ullamcorper. Curabitur vestibulum mattis velit, sit amet malesuada leo faucibus quis. Mauris nibh nibh, dignissim porta neque non, feugiat molestie nunc. Sed ullamcorper porttitor tortor sed laoreet. Nam sollicitudin tortor a lorem maximus, non porttitor elit efficitur. Aliquam dictum, risus congue efficitur accumsan, lectus neque fermentum lectus, quis fermentum purus turpis at magna.
+         </q>
+         <h1 id="Mes Loisirs "> Mes loisirs </h1>        
+          <ol>
+          <li>Le Sports</li> 
+          <li>La Musique</li>
+          <li>Les jeux videos</li>
+         </ol>
+         <h1 id="Mes Exercices"> Mes Exercices</h1>
+         <ol>
+            <li> <a href="hello world">01-Hello World </a></li>
+            <li> <a href="portfolio" >02-Portfolio</a></li>
+         </ol>
+<section>   
+<h1 id="Mes voisins de tables"> Mes voisins de tables</h1>
+
+<table>
+   <style> 
+   table, th, td {
+      border:1px solid black;border-collapse: collapse ;} </style>
+      
+   
+   <tr>
+      <th>Prenom</th>
+      <th>Nom</th>
+      <th>Derniere series ecoutée</th>
+      <th>équipe</th>
+   </tr>
+<tr>
+      <td>Alexis</td>
+      <td>Boivin</td>
+      <td>The Sandman</td>
+      <td rowspan="2">Big boys</td>
+</tr>
+<tr>
+   <td>Nathan</td>
+   <td>Demers</td>
+   <td>Breaking Bad</td>
+
+ </tr>
+</table>
+
+</section>
+     </body>
+     <h1>Une image pour finir</h1>
+
+     <img src="Landscape-Color.jpg" height="800" width="800"
+
+</html>
