@@ -1,0 +1,15 @@
+C:\Cegep\Prog\Tour de zork\bin\Debug\net6.0\Tour de zork.exe
+C:\Cegep\Prog\Tour de zork\bin\Debug\net6.0\Tour de zork.deps.json
+C:\Cegep\Prog\Tour de zork\bin\Debug\net6.0\Tour de zork.runtimeconfig.json
+C:\Cegep\Prog\Tour de zork\bin\Debug\net6.0\Tour de zork.dll
+C:\Cegep\Prog\Tour de zork\bin\Debug\net6.0\Tour de zork.pdb
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.csproj.AssemblyReference.cache
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.AssemblyInfoInputs.cache
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.AssemblyInfo.cs
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.csproj.CoreCompileInputs.cache
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.dll
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\refint\Tour de zork.dll
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.pdb
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\Tour de zork.genruntimeconfig.cache
+C:\Cegep\Prog\Tour de zork\obj\Debug\net6.0\ref\Tour de zork.dll
